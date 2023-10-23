@@ -1,7 +1,7 @@
 
 
 function color1() {
-    document.documentElement.style.setProperty('--primary_color', '#28e98c');
+    document.documentElement.style.setProperty('--primary_color', '#fd7e14');
 }
 function color2() {
     document.documentElement.style.setProperty('--primary_color', '#e4af12');
