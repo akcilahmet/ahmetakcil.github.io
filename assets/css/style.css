@@ -678,7 +678,7 @@ main.drake-main {
 .left-sidebar > img.me {
     border-radius: 30px;
     display: block;
-    margin-bottom: 56px;
+    margin-bottom: 36px;
 }
 .left-sidebar .sidebar-header {
     margin-bottom: 35px;
@@ -690,11 +690,24 @@ main.drake-main {
     font-size: 14px;
     font-weight: 400;
 }
+.nameLogo {
+    color: blue; /* Rengi mavi olarak ayarlar */
+}
+
 .left-sidebar h2 {
-    font-size: 24px;
-    color: #fff;
+    font-size: 18px;
+    color: #ffffff;
     text-align: center;
-    font-weight: 300;
+    font-weight: 500;
+}
+.left-sidebar job {
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 500;
+    border-radius: 30px;
+    display: block;
+
 }
 .left-sidebar .address {
     margin-bottom: 30px;
